@@ -8,7 +8,7 @@ const reactHooksDescription =
 const App = () => (
   <>
     <GlobalStyle />
-    <ReadMore reactHooksDescription={reactHooksDescription} />
+    <ReadMore reactHooksDescription={reactHooksDescription} /> //https://domaincp4read.ccbp.tech/
   </>
 )
 
